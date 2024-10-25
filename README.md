@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a data scientist with a strong background in
 
 ## 🔗 Links
 - [LinkedIn](https://linkedin.com/in/yzhou09)
-- [GitHub](https://github.com/yinger921)
+- [GitHub](https://github.com/Ying-Fiona-Zhou)
 - [ORCID](https://orcid.org/0000-0002-3727-2128)
 - [Professional Website](https://ying-fiona-zhou.github.io/)
 
