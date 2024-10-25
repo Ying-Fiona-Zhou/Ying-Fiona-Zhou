@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ying (Fiona) Zhou!
 
-Welcome to my GitHub profile! I’m a data scientist with a strong background in **machine learning**, **computational modeling**, and **data analysis**. With a Ph.D. in Fiber & Polymer Science and experience in both academic and industrial research, I’m passionate about applying AI/ML techniques to solve complex problems in **material science**, and **biosciences**. I leverage data-driven approaches to optimize experimental processes and accelerate research outcomes across various scientific domains.
+Welcome to my GitHub profile! I’m a data scientist with a strong background in **machine learning**, **computational modeling**, and **data analysis**. With a Ph.D. in Fiber & Polymer Science and experience in both academic and industrial research, I’m passionate about applying AI/ML techniques to solve complex problems in **nanomaterials**, **material science** and **biosciences**. I leverage data-driven approaches to optimize experimental processes and accelerate research outcomes across various scientific domains.
 
 ---
 
