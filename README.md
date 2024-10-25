@@ -46,10 +46,10 @@ Welcome to my GitHub profile! I’m a data scientist with a strong background in
 
 ## 🧬 Machine Learning Projects
 
-### 🔹 [Gold Nanoparticle Size and Surface Prediction](https://github.com/yinger921/gold-nanoparticle-ml)
+### 🔹 [Gold Nanoparticle Size and Surface Prediction](https://github.com/Ying-Fiona-Zhou/Au_Nanoparticle_Structural_Features_Model)
 Using Random Forest and Gradient Boosting, this project predicts the size and surface properties of gold nanoparticles with high accuracy. Feature importance analysis highlights key factors influencing nanoparticle growth.
 
-### 🔹 [Future Baby Names Prediction](https://github.com/yinger921/future-baby-names)
+### 🔹 [Future Baby Names Prediction](https://github.com/Ying-Fiona-Zhou/Capstone_BabyName_New)
 A machine learning model developed using logistic regression to predict future baby name trends, applying time series analysis and clustering to provide insights into demographic shifts.
 
 Feel free to explore my repositories and connect with me on LinkedIn!
