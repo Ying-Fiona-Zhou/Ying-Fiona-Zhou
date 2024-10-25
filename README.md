@@ -58,5 +58,5 @@ Feel free to explore my repositories and connect with me on LinkedIn!
 
 - **Email**: [ying6.zhou@gmail.com](mailto:ying6.zhou@gmail.com)
 - **LinkedIn**: [https://linkedin.com/in/yzhou09](https://linkedin.com/in/yzhou09)
-- **GitHub**: [https://github.com/yinger921](https://github.com/yinger921)
+- **GitHub**: [https://github.com/Ying-Fiona-Zhou](https://github.com/Ying-Fiona-Zhou)
 
